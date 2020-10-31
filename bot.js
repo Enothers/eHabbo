@@ -448,4 +448,4 @@ bot.on("message", async (message) => {
 
 
 
-bot.login('NzcxNDg2MjQ4NTYwNjIzNjY2.X5s0jw.0FI7VcPARho9gPheODZo59FxV54')
+bot.login(process.env.TOKEN)
